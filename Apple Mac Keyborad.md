@@ -45,14 +45,14 @@ Command-逗号 (,)：打开最前面的应用的偏好设置。<br>
 ## 睡眠、退出登录和关机快捷键
     在这些快捷键中，您可能需要按住其中一些快捷键稍长时间。这样可以避免您无意中启用快捷键。
     电源按钮或触控 ID 传感器：按下可打开 Mac 电源或将 Mac 从睡眠状态唤醒。当 Mac 处于唤醒状态时，按住这个按钮 1.5 秒钟会让 Mac 进入睡眠状态。*继续按住则会强制您的 Mac 关机。
-Option–Command–电源按钮*或 Option–Command–Media Eject（Option–Command–介质推出键）：将您的 Mac 置于睡眠状态。<br>
-Control–Shift–电源按钮*或 Control–Shift–Media Eject（Control–Shift–介质推出键）：将显示器置于睡眠状态。<br>
-Control–电源按钮*或 Control–Media Eject（Control–介质推出键）：显示一个对话框，询问您是要重新启动、睡眠还是关机。<br>
-Control–Command–电源按钮*：强制 Mac 重新启动，系统不会提示是否要存储任何打开且未存储的文稿。<br>
-Control–Command–Media Eject（Control–Command–介质推出键）：退出所有应用，然后重新启动您的 Mac。如果任何打开的文稿有未存储的更改，系统会询问您是否要存储这些更改。<br>
-Control–Option-Command–电源按钮*或 Control–Option–Command–Media Eject（Control–Option–Command–介质推出键）：退出所有应用，然后将您的 Mac 关机。如果任何打开的文稿有未存储的更改，系统会询问您是否要存储这些更改。<br>
-Shift–Command–Q：退出登录您的 macOS 用户帐户。系统将提示您确认。要在不确认的情况下立即退出登录，请按下 Option-Shift-Command-Q。<br>
-*不适用于带有触控栏的键盘。<br>
+        Option–Command–电源按钮*或 Option–Command–Media Eject（Option–Command–介质推出键）：将您的 Mac 置于睡眠状态。
+Control–Shift–电源按钮*或 Control–Shift–Media Eject（Control–Shift–介质推出键）：将显示器置于睡眠状态。
+Control–电源按钮*或 Control–Media Eject（Control–介质推出键）：显示一个对话框，询问您是要重新启动、睡眠还是关机。
+Control–Command–电源按钮*：强制 Mac 重新启动，系统不会提示是否要存储任何打开且未存储的文稿。
+Control–Command–Media Eject（Control–Command–介质推出键）：退出所有应用，然后重新启动您的 Mac。如果任何打开的文稿有未存储的更改，系统会询问您是否要存储这些更改。
+Control–Option-Command–电源按钮*或 Control–Option–Command–Media Eject（Control–Option–Command–介质推出键）：退出所有应用，然后将您的 Mac 关机。如果任何打开的文稿有未存储的更改，系统会询问您是否要存储这些更改。
+Shift–Command–Q：退出登录您的 macOS 用户帐户。系统将提示您确认。要在不确认的情况下立即退出登录，请按下 Option-Shift-Command-Q。
+*不适用于带有触控栏的键盘。
 
 
 
